@@ -29,7 +29,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
   introTitle: "**Status**"
-  introMessage: **Status** page which uses **real-time** data from our [GitHub repository](https://github.com/7hanq1n/upptime).
+  introMessage: This is **Status** page which uses **real-time** data from our [GitHub repository](https://github.com/7hanq1n/upptime).
   navbar:
     - title: Status
       href: /uptime

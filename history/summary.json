@@ -58,7 +58,7 @@
     "url": "$BKCS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bkcs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.34%",
@@ -70,6 +70,7 @@
     "timeMonth": 926,
     "timeYear": 926,
     "dailyMinutesDown": {
+      "2024-11-05": 0,
       "2024-10-30": 67
     }
   }

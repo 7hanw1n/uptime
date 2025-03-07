@@ -51,7 +51,7 @@
     "url": "$FW",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fw",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "95.99%",
     "uptimeWeek": "99.13%",

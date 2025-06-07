@@ -65,19 +65,19 @@
     "url": "$FW",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fw",
-    "status": "up",
-    "uptime": "90.40%",
-    "uptimeDay": "4.28%",
-    "uptimeWeek": "52.64%",
-    "uptimeMonth": "41.87%",
-    "uptimeYear": "90.40%",
+    "status": "down",
+    "uptime": "90.42%",
+    "uptimeDay": "5.11%",
+    "uptimeWeek": "52.63%",
+    "uptimeMonth": "41.90%",
+    "uptimeYear": "90.42%",
     "time": 1067,
     "timeDay": 912,
     "timeWeek": 1440,
     "timeMonth": 1459,
     "timeYear": 1067,
     "dailyMinutesDown": {
-      "2025-06-07": 923,
+      "2025-06-07": 924,
       "2025-06-06": 1340,
       "2025-06-05": 1090,
       "2025-06-04": 563,
@@ -110,7 +110,7 @@
       "2025-05-06": 1324,
       "2025-05-05": 1408,
       "2025-05-04": 1394,
-      "2025-05-03": 609
+      "2025-05-03": 543
     }
   },
   {
@@ -130,7 +130,7 @@
     "timeMonth": 0,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2025-06-07": 932,
+      "2025-06-07": 945,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,

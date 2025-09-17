@@ -98,7 +98,7 @@
     "slug": "fw",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "71.26%",
+    "uptimeDay": "72.97%",
     "uptimeWeek": "81.08%",
     "uptimeMonth": "93.13%",
     "uptimeYear": "99.36%",
@@ -145,7 +145,7 @@
     "timeMonth": 0,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2025-09-17": 83,
+      "2025-09-17": 107,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,

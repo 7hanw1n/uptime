@@ -68,19 +68,19 @@
     "url": "$SG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sg",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "84.73%",
-    "uptimeWeek": "96.84%",
+    "status": "down",
+    "uptime": "99.39%",
+    "uptimeDay": "84.64%",
+    "uptimeWeek": "96.83%",
     "uptimeMonth": "99.16%",
-    "uptimeYear": "99.23%",
+    "uptimeYear": "99.24%",
     "time": 678,
     "timeDay": 6207,
     "timeWeek": 5537,
     "timeMonth": 2413,
     "timeYear": 705,
     "dailyMinutesDown": {
-      "2026-01-21": 221,
+      "2026-01-21": 222,
       "2026-01-20": 99,
       "2025-12-22": 49,
       "2025-10-12": 26,
@@ -110,7 +110,7 @@
       "2025-05-18": 428,
       "2025-05-17": 85,
       "2025-05-14": 307,
-      "2025-05-13": 186
+      "2025-05-13": 166
     }
   },
   {
@@ -118,19 +118,19 @@
     "url": "$FW",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fw",
-    "status": "up",
+    "status": "down",
     "uptime": "98.15%",
-    "uptimeDay": "72.25%",
+    "uptimeDay": "72.31%",
     "uptimeWeek": "89.63%",
     "uptimeMonth": "96.64%",
-    "uptimeYear": "97.70%",
+    "uptimeYear": "97.71%",
     "time": 1280,
     "timeDay": 14672,
     "timeWeek": 11760,
     "timeMonth": 5524,
     "timeYear": 1328,
     "dailyMinutesDown": {
-      "2026-01-21": 311,
+      "2026-01-21": 312,
       "2026-01-20": 733,
       "2025-12-23": 226,
       "2025-12-22": 199,
@@ -160,7 +160,7 @@
       "2025-09-20": 99,
       "2025-09-19": 119,
       "2025-09-18": 179,
-      "2025-09-17": 110
+      "2025-09-17": 101
     }
   },
   {
@@ -169,7 +169,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bkcs",
     "status": "down",
-    "uptime": "31.24%",
+    "uptime": "31.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -180,7 +180,7 @@
     "timeMonth": 0,
     "timeYear": 808,
     "dailyMinutesDown": {
-      "2026-01-21": 863,
+      "2026-01-21": 927,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,

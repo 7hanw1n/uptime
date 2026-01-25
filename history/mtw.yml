@@ -1,7 +1,7 @@
 url: $MTW
-status: up
-code: 200
-responseTime: 580
-lastUpdated: 2026-01-25T14:59:27.319Z
+status: down
+code: 415
+responseTime: 605
+lastUpdated: 2026-01-25T23:14:44.389Z
 startTime: 2024-10-25T10:13:03.265Z
 generator: Upptime <https://github.com/upptime/upptime>

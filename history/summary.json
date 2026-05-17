@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mtw",
     "status": "down",
-    "uptime": "95.03%",
+    "uptime": "94.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "22.14%",
-    "uptimeYear": "92.27%",
+    "uptimeMonth": "18.81%",
+    "uptimeYear": "91.99%",
     "time": 655,
-    "timeDay": 695,
-    "timeWeek": 1832,
-    "timeMonth": 2083,
-    "timeYear": 660,
+    "timeDay": 3026,
+    "timeWeek": 2137,
+    "timeMonth": 2152,
+    "timeYear": 663,
     "dailyMinutesDown": {
-      "2026-05-16": 222,
+      "2026-05-17": 241,
+      "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
@@ -106,9 +107,9 @@
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.25%",
     "time": 865,
-    "timeDay": 613,
-    "timeWeek": 598,
-    "timeMonth": 545,
+    "timeDay": 585,
+    "timeWeek": 596,
+    "timeMonth": 548,
     "timeYear": 927,
     "dailyMinutesDown": {
       "2026-05-07": 205,
@@ -145,8 +146,7 @@
       "2025-06-21": 860,
       "2025-06-11": 30,
       "2025-06-09": 15,
-      "2025-05-18": 428,
-      "2025-05-17": 85
+      "2025-05-18": 428
     }
   },
   {
@@ -161,10 +161,10 @@
     "uptimeMonth": "99.35%",
     "uptimeYear": "98.81%",
     "time": 2791,
-    "timeDay": 933,
-    "timeWeek": 2313,
-    "timeMonth": 1490,
-    "timeYear": 2930,
+    "timeDay": 922,
+    "timeWeek": 2316,
+    "timeMonth": 1493,
+    "timeYear": 2928,
     "dailyMinutesDown": {
       "2026-05-07": 163,
       "2026-05-06": 60,
@@ -200,7 +200,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bkcs",
     "status": "down",
-    "uptime": "24.93%",
+    "uptime": "24.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -211,7 +211,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-16": 222,
+      "2026-05-17": 241,
+      "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
@@ -574,8 +575,7 @@
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
-      "2025-05-18": 1440,
-      "2025-05-17": 1440
+      "2025-05-18": 1440
     }
   }
 ]

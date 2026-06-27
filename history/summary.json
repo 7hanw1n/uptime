@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mtw",
     "status": "down",
-    "uptime": "89.99%",
-    "uptimeDay": "64.91%",
-    "uptimeWeek": "73.89%",
+    "uptime": "89.97%",
+    "uptimeDay": "56.03%",
+    "uptimeWeek": "72.62%",
     "uptimeMonth": "25.81%",
-    "uptimeYear": "83.27%",
+    "uptimeYear": "83.25%",
     "time": 693,
     "timeDay": 556,
     "timeWeek": 521,
@@ -126,7 +126,7 @@
       "2026-06-24": 158,
       "2026-06-25": 137,
       "2026-06-26": 500,
-      "2026-06-27": 5
+      "2026-06-27": 133
     }
   },
   {
@@ -241,7 +241,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-27": 113,
+      "2026-06-27": 241,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,

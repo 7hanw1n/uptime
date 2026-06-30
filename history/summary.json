@@ -4,16 +4,16 @@
     "url": "$MTW",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mtw",
-    "status": "down",
-    "uptime": "89.97%",
-    "uptimeDay": "77.10%",
-    "uptimeWeek": "79.99%",
-    "uptimeMonth": "34.84%",
-    "uptimeYear": "83.15%",
+    "status": "up",
+    "uptime": "89.95%",
+    "uptimeDay": "73.85%",
+    "uptimeWeek": "79.79%",
+    "uptimeMonth": "34.85%",
+    "uptimeYear": "83.12%",
     "time": 692,
-    "timeDay": 478,
-    "timeWeek": 531,
-    "timeMonth": 893,
+    "timeDay": 472,
+    "timeWeek": 534,
+    "timeMonth": 888,
     "timeYear": 712,
     "dailyMinutesDown": {
       "2026-02-21": 15,
@@ -124,7 +124,7 @@
       "2026-06-27": 372,
       "2026-06-28": 266,
       "2026-06-29": 335,
-      "2026-06-30": 100
+      "2026-06-30": 254
     }
   },
   {
@@ -192,7 +192,7 @@
     "timeDay": 3349,
     "timeWeek": 3691,
     "timeMonth": 2995,
-    "timeYear": 3374,
+    "timeYear": 3377,
     "dailyMinutesDown": {
       "2026-01-26": 60,
       "2026-01-27": 327,
@@ -228,7 +228,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bkcs",
     "status": "down",
-    "uptime": "23.09%",
+    "uptime": "23.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -239,7 +239,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 813,
+      "2026-06-30": 972,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,

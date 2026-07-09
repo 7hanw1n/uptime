@@ -4,16 +4,16 @@
     "url": "$MTW",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mtw",
-    "status": "down",
+    "status": "up",
     "uptime": "89.93%",
-    "uptimeDay": "89.34%",
-    "uptimeWeek": "84.19%",
-    "uptimeMonth": "60.88%",
+    "uptimeDay": "87.55%",
+    "uptimeWeek": "83.93%",
+    "uptimeMonth": "60.89%",
     "uptimeYear": "82.85%",
     "time": 675,
-    "timeDay": 451,
-    "timeWeek": 476,
-    "timeMonth": 657,
+    "timeDay": 405,
+    "timeWeek": 469,
+    "timeMonth": 638,
     "timeYear": 705,
     "dailyMinutesDown": {
       "2026-03-06": 21,
@@ -125,7 +125,8 @@
       "2026-07-05": 84,
       "2026-07-06": 419,
       "2026-07-07": 89,
-      "2026-07-08": 153
+      "2026-07-08": 176,
+      "2026-07-09": 3
     }
   },
   {
@@ -139,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.19%",
-    "time": 988,
-    "timeDay": 601,
-    "timeWeek": 552,
-    "timeMonth": 555,
-    "timeYear": 1074,
+    "time": 987,
+    "timeDay": 474,
+    "timeWeek": 536,
+    "timeMonth": 553,
+    "timeYear": 1073,
     "dailyMinutesDown": {
       "2025-08-03": 34,
       "2025-08-04": 66,
@@ -189,9 +190,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.81%",
     "time": 3271,
-    "timeDay": 4127,
-    "timeWeek": 4195,
-    "timeMonth": 3643,
+    "timeDay": 3377,
+    "timeWeek": 4087,
+    "timeMonth": 3627,
     "timeYear": 3409,
     "dailyMinutesDown": {
       "2026-01-26": 60,
@@ -233,13 +234,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 811,
+    "time": 809,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-08": 1418,
+      "2026-07-09": 8,
+      "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
@@ -602,8 +604,7 @@
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
-      "2025-07-10": 1440,
-      "2025-07-09": 1440
+      "2025-07-10": 1440
     }
   }
 ]

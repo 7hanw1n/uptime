@@ -4,15 +4,15 @@
     "url": "$MTW",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mtw",
-    "status": "down",
+    "status": "up",
     "uptime": "89.96%",
-    "uptimeDay": "86.65%",
-    "uptimeWeek": "90.20%",
-    "uptimeMonth": "71.64%",
-    "uptimeYear": "82.81%",
+    "uptimeDay": "83.03%",
+    "uptimeWeek": "89.68%",
+    "uptimeMonth": "71.66%",
+    "uptimeYear": "82.80%",
     "time": 674,
-    "timeDay": 492,
-    "timeWeek": 460,
+    "timeDay": 501,
+    "timeWeek": 465,
     "timeMonth": 561,
     "timeYear": 702,
     "dailyMinutesDown": {
@@ -128,7 +128,7 @@
       "2026-07-09": 3,
       "2026-07-10": 108,
       "2026-07-11": 187,
-      "2026-07-12": 5
+      "2026-07-12": 57
     }
   },
   {
@@ -242,7 +242,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-12": 698,
+      "2026-07-12": 755,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
       "2026-07-09": 1440,

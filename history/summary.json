@@ -11,8 +11,8 @@
     "uptimeMonth": "83.98%",
     "uptimeYear": "82.77%",
     "time": 673,
-    "timeDay": 387,
-    "timeWeek": 455,
+    "timeDay": 412,
+    "timeWeek": 459,
     "timeMonth": 484,
     "timeYear": 698,
     "dailyMinutesDown": {
@@ -140,9 +140,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.19%",
     "time": 984,
-    "timeDay": 491,
-    "timeWeek": 500,
-    "timeMonth": 540,
+    "timeDay": 545,
+    "timeWeek": 510,
+    "timeMonth": 541,
     "timeYear": 1072,
     "dailyMinutesDown": {
       "2025-08-03": 34,
@@ -189,9 +189,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.81%",
     "time": 3270,
-    "timeDay": 723,
-    "timeWeek": 2164,
-    "timeMonth": 3444,
+    "timeDay": 879,
+    "timeWeek": 1811,
+    "timeMonth": 3356,
     "timeYear": 3435,
     "dailyMinutesDown": {
       "2026-01-26": 60,
@@ -228,7 +228,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bkcs",
     "status": "down",
-    "uptime": "22.49%",
+    "uptime": "22.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -239,7 +239,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-16": 1192,
+      "2026-07-17": 199,
+      "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
@@ -602,8 +603,7 @@
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
-      "2025-07-18": 1440,
-      "2025-07-17": 1440
+      "2025-07-18": 1440
     }
   }
 ]

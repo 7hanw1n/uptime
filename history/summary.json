@@ -4,19 +4,19 @@
     "url": "$MTW",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mtw",
-    "status": "up",
-    "uptime": "90.00%",
-    "uptimeDay": "66.35%",
-    "uptimeWeek": "87.71%",
-    "uptimeMonth": "82.85%",
+    "status": "down",
+    "uptime": "90.01%",
+    "uptimeDay": "85.84%",
+    "uptimeWeek": "87.66%",
+    "uptimeMonth": "83.58%",
     "uptimeYear": "82.66%",
     "time": 672,
-    "timeDay": 408,
-    "timeWeek": 439,
-    "timeMonth": 481,
+    "timeDay": 421,
+    "timeWeek": 436,
+    "timeMonth": 479,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2026-03-21": 56,
+      "2026-03-21": 22,
       "2026-03-22": 30,
       "2026-03-23": 60,
       "2026-03-27": 46,
@@ -123,7 +123,7 @@
       "2026-07-17": 49,
       "2026-07-18": 179,
       "2026-07-19": 577,
-      "2026-07-20": 199
+      "2026-07-20": 204
     }
   },
   {
@@ -132,11 +132,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sg",
     "status": "down",
-    "uptime": "99.26%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.19%",
+    "uptime": "99.17%",
+    "uptimeDay": "37.58%",
+    "uptimeWeek": "91.08%",
+    "uptimeMonth": "97.95%",
+    "uptimeYear": "99.02%",
     "time": 982,
     "timeDay": 546,
     "timeWeek": 513,
@@ -173,7 +173,7 @@
       "2026-05-25": 657,
       "2026-05-24": 1440,
       "2026-05-23": 495,
-      "2026-07-20": 5
+      "2026-07-20": 899
     }
   },
   {
@@ -191,7 +191,7 @@
     "timeDay": 835,
     "timeWeek": 789,
     "timeMonth": 3056,
-    "timeYear": 3435,
+    "timeYear": 3439,
     "dailyMinutesDown": {
       "2026-01-26": 60,
       "2026-01-27": 327,
@@ -227,7 +227,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bkcs",
     "status": "down",
-    "uptime": "22.37%",
+    "uptime": "22.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -238,7 +238,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-20": 448,
+      "2026-07-20": 1341,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
